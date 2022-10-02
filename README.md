@@ -10,4 +10,4 @@ Presentation: https://docs.google.com/presentation/d/1C9dhVW19fYOsUGRbAuzcHHls41
 
 Alternative link for source code: https://mega.nz/file/mxkhnYJI#L4Qkp521gRig3wIBSzZ2In0vVDNLjNqGMVeOzoaBhu8 
 
-Thanks to Georgios Loukakis, Adjunct Professor.
+Special thanks to Georgios Loukakis, Adjunct Professor.
