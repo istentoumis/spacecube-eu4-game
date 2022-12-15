@@ -1,5 +1,12 @@
 Implemented in Unreal Engine 4(version 4.25) in the context of the Bachelor's Thesis in Computer Science and Telecommunications, University of Thessaly, Greece. 
 
+Notable accomplishments:
+-	Cinematic Creation (~1min)
+-	Smooth Mechanics
+-	Importation of Animations Made in Blender
+-	Basic AI 
+-	Presentation of “SpaceCube” at Chaniartoon, International Comic and Animation Festival (2021)
+
 Showreel: https://www.youtube.com/watch?v=G-Mqu2t4wWw&ab_channel=IliasStentoumis
 
 .exe: https://katsoubla.itch.io/spacecube
