@@ -1,7 +1,7 @@
 Implemented in Unreal Engine 4(version 4.25) in the context of the Bachelor's Thesis in Computer Science and Telecommunications, University of Thessaly, Greece. 
 
 Notable accomplishments:
--	Cinematic Creation (~1min)
+-	Cinematic (~1min)
 -	Smooth Mechanics
 -	Importation of Animations Made in Blender
 -	Basic AI 
