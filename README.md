@@ -12,7 +12,7 @@ SpaceCube is an 3D Puzzle-Shooting game developed using Unreal Engine 4 (version
 - **Basic AI:** Encounter basic artificial intelligence, adding a dynamic aspect to the gaming experience.
 
 **Achievements**
-- **Chaniartoon Festival (2021):** Presented "SpaceCube" at Chaniartoon, the International Comic and Animation Festival.
+** Presented "SpaceCube" at Chaniartoon, the International Comic and Animation Festival(2021).
 
 **Download and Play(Windows PC only)**
 - **Executable (.exe):** [SpaceCube on Itch.io](https://katsoubla.itch.io/spacecube)
