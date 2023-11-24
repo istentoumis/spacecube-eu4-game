@@ -1,5 +1,6 @@
 # SpaceCube: 3D Puzzle-Shooting Game
 **Project showreel:** [YouTube](https://www.youtube.com/watch?v=G-Mqu2t4wWw&ab_channel=IliasStentoumis).
+**Gameplay duration:** 1-1:30h
 
 **Description**
 
